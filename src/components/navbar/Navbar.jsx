@@ -9,6 +9,7 @@ const Navbar = () => {
     
     <div>
     <ShoppingCart />
+    <span className=" bg-[#55555a] text-white  size-5    absolute  text-center  rounded-3xl text-xs  top-[34px] left-[4px]   z-10 ">0 </span>
       </div>
     <div>
     <User />
